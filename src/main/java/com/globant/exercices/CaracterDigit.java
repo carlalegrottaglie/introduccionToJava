@@ -16,5 +16,7 @@ public class CaracterDigit {
 
         System.out.println("La suma de los dos números es: " + suma);
 
+        sc.close();
+
     }
 }
