@@ -1,4 +1,4 @@
-/*package com.globant.exercices;
+package com.globant.exercices;
 
 import java.util.Objects;
 import java.util.Scanner;
@@ -89,7 +89,7 @@ public class Oraciones {
                 }
                 contador++;
 
-            } while (!encontrada && contador <= list.length);
+            } while (!encontrada && contador < list.length);
 
             if (encontrada)
                 System.out.println("La palabra se encuentra en la posición: " + contador);
@@ -100,5 +100,5 @@ public class Oraciones {
 
 }
 
-*/
+
     
