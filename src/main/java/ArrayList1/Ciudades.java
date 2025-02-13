@@ -1,4 +1,4 @@
-package ArrayList1;
+/*package ArrayList1;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -68,3 +68,5 @@ public class JavaArrayList {
         jv.closeScanner();
     }
 }
+
+ */

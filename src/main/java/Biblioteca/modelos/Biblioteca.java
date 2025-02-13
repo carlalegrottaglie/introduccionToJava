@@ -1,4 +1,4 @@
-package Biblioteca.modelos;
+/*package Biblioteca.modelos;
 
 public class Biblioteca {
 
@@ -15,7 +15,7 @@ public class Biblioteca {
     /*agregarLibro(Libro libro): Verifica si hay espacio disponible en el arreglo.
 Si lo hay, agrega el libro y aumenta cantidadLibros. Si el libro ya existe
 (mismo título y autor), muestra un mensaje de error.*/
-    public void agregarLibro(Libro nuevoLibro) {
+/*    public void agregarLibro(Libro nuevoLibro) {
         if (cantidadLibros == libros.length) {
             System.out.println("No hay espacio en la biblioteca para agregar un nuevo libro U_u");
         } else {
@@ -36,17 +36,17 @@ Si lo hay, agrega el libro y aumenta cantidadLibros. Si el libro ya existe
 
     }
     /*mostrarLibros(): Recorre el arreglo y muestra los datos de cada libro almacenado.*/
-    public void mostrarLibros(){
+  /*  public void mostrarLibros(){
         for (int i = 0; i < cantidadLibros; i++) {
             System.out.println(libros[i].toString());
 
         }
     }
-
+*/
     /*prestarLibro(String titulo): Busca un libro por su título en el arreglo.
 Si está disponible, cambia su estado a false. Si no lo encuentra o no está
 disponible, muestra un mensaje de error.*/
-    public void prestarLibro(String titulo){
+  /*  public void prestarLibro(String titulo){
         for (int i = 0; i < cantidadLibros; i++) {
             if (titulo == libros[i].getTitulo()) {
                 if (libros[i].isDisponible()) {
@@ -64,5 +64,6 @@ disponible, muestra un mensaje de error.*/
 
 
 
-}
 
+
+*/

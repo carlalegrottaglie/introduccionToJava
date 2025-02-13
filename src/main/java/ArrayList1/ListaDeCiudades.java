@@ -1,4 +1,4 @@
-package ArrayList1;
+/*package ArrayList1;
 
 import javax.sound.midi.Soundbank;
 import java.util.ArrayList;
@@ -15,7 +15,7 @@ public class ListaDeCiudades {
           System.out.println("Quiere ingresar una ciudad Si/No");
           respuesta= sc.nextLine().toUpperCase();
           System.out.println("Ingrese la ciudad: ");
-          ciudades.add(sc.nextLine();
+          ciudades.add(sc.nextLine());
       }
 
 
@@ -24,4 +24,5 @@ public class ListaDeCiudades {
         }
 
     }
-}
+
+*/
